@@ -1,3 +1,7 @@
 # odin-recipes
 
-This is going to be a recipe.
+This is the first Odin Project assignment.
+
+Here are som chilean recipes for all people to enjoy!
+
+Live site: https://hoyvoyyo.github.io/odin-recipes/
